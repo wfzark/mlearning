@@ -1,4 +1,6 @@
-# Team Up: GitHub Pull Request Exercises
+# mlearning
+
+Team Up: GitHub Pull Request Exercises
 
 This repository is used for practicing GitHub Pull Requests:
 
@@ -7,4 +9,3 @@ This repository is used for practicing GitHub Pull Requests:
 - Exercise 3: Resolving merge conflicts
 
 Students should create feature branches, add files, and open Pull Requests.
-
